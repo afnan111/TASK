@@ -1,0 +1,19 @@
+/* src/styles/List.css */
+.list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .list-item {
+    margin-bottom: 10px;
+  }
+  
+  .list-item a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .list-item a:hover {
+    color: #007bff;
+  }
+  
